@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **rumilparesh94@gmail.com**
 
-- ⚡ Fun fact **I play Guitar and like Music**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumilshah94&show_icons=true&locale=en" alt="rumilshah94" /></p>
 
 <h3 align="left">You can find me on:</h3>
